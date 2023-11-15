@@ -82,12 +82,12 @@ category.
 • Which item fall under the following categories: Highest Selling and Most Profitable?
 NB: You can use your discretion to name the columns as you see fit but it must capture the 
 metrics and KPIs given above.
-Authored by Enoch Nunekpeku
 
 # Part 3: Temporal Calculations
 o PurchaseYear = YEAR (UMFSData [PurchaseDate])
 o PurchaseMonth = FORMAT (UMFSData [PurchaseDate], "MMMM")
-Part 4: Inventory Management
+
+# Part 4: Inventory Management
 UrbanMart must consider the temporal aspect of its operations. The perishable nature of many of its 
 products necessitates precise inventory management to minimize losses from expired items and to 
 ensure the availability of fresh products for its customers. The timing of procurement and sales also 
@@ -102,6 +102,4 @@ categories with higher risk of product expiry?
 3. How does the 'Days to Expiry' affect the selling price and profitability of items?
 4. Stock Levels: How does UrbanMart's current stock level for each item compare to the initial 
 stock? Are there items that are overstocked or understocked?
-5. What do you think about the financial position of the company? Refer to Q.3
-All the best. 
-Authored by Enoch Nunekpeku
+5. What do you think about the financial position of the company?
