@@ -16,3 +16,9 @@ insights that can guide its pricing and inventory management strategies.
 # Purpose Of The Project
  The major purpose of the project is to optimize profitability by implementing 
 an effective pricing strategy for its diverse product range
+
+# The company needs a data-driven solution that can provide insights into:
+1. How to set selling prices that cover procurement costs, other operational costs, and deliver a 
+reasonable profit margin.
+2. How to manage inventory to minimize losses from near-expiry or expired items.
+
