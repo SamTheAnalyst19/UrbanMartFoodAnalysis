@@ -86,15 +86,20 @@ Important Metrics and KPIs to find include the ff:
 
 # Part 2: Product Metrics: Calculate for the following: 
 • TotalInitialQuantityOfItems
+
 • TotalCurrentQuantityOfItems
+
 • Num_of_ItemsSoldPerProduct
+
 • Total Units Sold: Sum of InitialQuantity minus CurrentQuantity for all items or per item 
 category.
+
 • ObtainedRevenuePerProduct
+
 • Total ObtainedRevenuePerProduct
+
 • Which item fall under the following categories: Highest Selling and Most Profitable?
-NB: You can use your discretion to name the columns as you see fit but it must capture the 
-metrics and KPIs given above.
+
 
 # Part 3: Temporal Calculations
 o PurchaseYear = YEAR (UMFSData [PurchaseDate])
