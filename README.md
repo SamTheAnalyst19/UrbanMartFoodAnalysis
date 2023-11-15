@@ -44,6 +44,7 @@ NB:
 ❖ Purchase Price
 The purchase price is the amount of money paid by a buyer to acquire a product, service, or 
 asset.
+
 ❖ Unit Cost
 • The unit cost refers to the cost of a single item or unit of measurement. 
 • The Unit Cost = Unit Purchase Price plus the Operational Cost 
@@ -52,7 +53,9 @@ selling price.
 • It is the difference between the selling price of a good or service and its cost. It is 
 expressed as a percentage above the cost. In other words, it is the premium over the 
 total cost of the good or service that provides the seller with a profit.
+
 ❖ SellingPrice: The price at which the item is being sold.
+
 ❖ An Expiry Date, also known as an expiration date, is the date after which something should 
 no longer be used, either by operation of law or by exceeding the anticipated shelf life for 
 perishable goods. 
