@@ -12,3 +12,7 @@ sales.
 By leveraging the available dataset, which includes details on item category, purchase price, purchase 
 date, quantity, expiry date, item status, and unit price of items, UrbanMart aims to derive actionable 
 insights that can guide its pricing and inventory management strategies.
+
+# Purpose Of The Project
+ The major purpose of the project is to optimize profitability by implementing 
+an effective pricing strategy for its diverse product range
