@@ -65,14 +65,23 @@ Important Metrics and KPIs to find include the ff:
 • PurchasePricePerItem
 
 • ExpectedCostPerProductQuantity
+
 • TotalExpectedCost 
+
 • Profitability Metrics
+
 ▪ UnitCostPricePerProduct: Hint: Increase the UnitCost by 20%
+
 ▪ UnitMarkupProfit
+
 ▪ MarkupProfitPerProductQuantity
+
 ▪ TotalMarkupProfit
+
 ▪ ExpectedRevenuePerProductQuantity
+
 ▪ TotalExpectedRevenue
+
 ▪ Revenue Contribution by Category
 
 # Part 2: Product Metrics: Calculate for the following: 
