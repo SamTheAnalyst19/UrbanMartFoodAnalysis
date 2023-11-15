@@ -103,6 +103,7 @@ category.
 
 # Part 3: Temporal Calculations
 o PurchaseYear = YEAR (UMFSData [PurchaseDate])
+
 o PurchaseMonth = FORMAT (UMFSData [PurchaseDate], "MMMM")
 
 # Part 4: Inventory Management
