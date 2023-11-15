@@ -63,6 +63,7 @@ perishable goods.
 # Part 1: Inventory Metrics
 Important Metrics and KPIs to find include the ff:
 • PurchasePricePerItem
+
 • ExpectedCostPerProductQuantity
 • TotalExpectedCost 
 • Profitability Metrics
