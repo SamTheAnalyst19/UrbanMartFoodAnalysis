@@ -48,6 +48,7 @@ asset.
 ❖ Unit Cost
 • The unit cost refers to the cost of a single item or unit of measurement. 
 • The Unit Cost = Unit Purchase Price plus the Operational Cost 
+
 ❖ MarkupProfit: the amount by which the cost of a good is increased in order to get to the final 
 selling price.
 • It is the difference between the selling price of a good or service and its cost. It is 
