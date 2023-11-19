@@ -122,3 +122,15 @@ categories with higher risk of product expiry?
 4. Stock Levels: How does UrbanMart's current stock level for each item compare to the initial 
 stock? Are there items that are overstocked or understocked?
 5. What do you think about the financial position of the company?
+
+# Revenue and Profit Calculation
+Purchase Price Per Item = Purchase Price / Initial Quantity
+Expected Cost Per Product Quantity = Unit Cost * Initial Quantity
+Unit Cost Price Per Product = 20% * Unit Cost + Unit Cost
+Unit MarkUp Profit = 20% * Unit Cost
+Mark Up Profit Per Product Quantity = Unit MarkUp Profit * Initial Quantity
+Expecetd Reveneue Per Product Quantity = Unit Cost Price Per Product * Intial Quantity
+Total Unit Sold = Intial Quantity - Current Quantity
+
+
+
