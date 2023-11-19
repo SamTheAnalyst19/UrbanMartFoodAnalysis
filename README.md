@@ -124,10 +124,16 @@ stock? Are there items that are overstocked or understocked?
 5. What do you think about the financial position of the company?
 
 # Revenue and Profit Calculation
-Purchase Price Per Item = Purchase Price / Initial Quantity
-Expected Cost Per Product Quantity = Unit Cost * Initial Quantity
-Unit Cost Price Per Product = 20% * Unit Cost + Unit Cost
-Unit MarkUp Profit = 20% * Unit Cost
-Mark Up Profit Per Product Quantity = Unit MarkUp Profit * Initial Quantity
-Expecetd Reveneue Per Product Quantity = Unit Cost Price Per Product * Intial Quantity
-Total Unit Sold = Intial Quantity - Current Quantity
+1.Purchase Price Per Item = Purchase Price / Initial Quantity
+
+2.Expected Cost Per Product Quantity = Unit Cost * Initial Quantity
+
+3.Unit Cost Price Per Product = 20% * Unit Cost + Unit Cost
+
+4.Unit MarkUp Profit = 20% * Unit Cost
+
+5.Mark Up Profit Per Product Quantity = Unit MarkUp Profit * Initial Quantity
+
+6.Expecetd Reveneue Per Product Quantity = Unit Cost Price Per Product * Intial Quantity
+
+7.Total Unit Sold = Intial Quantity - Current Quantity
