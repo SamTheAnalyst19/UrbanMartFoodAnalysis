@@ -131,6 +131,3 @@ Unit MarkUp Profit = 20% * Unit Cost
 Mark Up Profit Per Product Quantity = Unit MarkUp Profit * Initial Quantity
 Expecetd Reveneue Per Product Quantity = Unit Cost Price Per Product * Intial Quantity
 Total Unit Sold = Intial Quantity - Current Quantity
-
-
-
