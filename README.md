@@ -137,3 +137,4 @@ stock? Are there items that are overstocked or understocked?
 6.Expecetd Reveneue Per Product Quantity = Unit Cost Price Per Product * Intial Quantity
 
 7.Total Unit Sold = Intial Quantity - Current Quantity
+
