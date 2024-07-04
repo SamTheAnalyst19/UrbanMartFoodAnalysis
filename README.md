@@ -3,6 +3,9 @@
 
 
 ![Screenshot 2024-07-04 002450](https://github.com/kyeremehS/Urban-Mart-Food-Inventory-Analysis/assets/148300247/2183be02-2960-44df-b898-624ef8e4b2da)
+
+![Screenshot 2024-07-04 002508](https://github.com/kyeremehS/Urban-Mart-Food-Inventory-Analysis/assets/148300247/4ac368dc-60b3-40b4-a170-4f9949cc5cdb)
+
 # Urban Mart Food Inventory Analysis
 
  
